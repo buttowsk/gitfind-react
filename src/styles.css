@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #282A3A;
+}
+
+hr {
+    border: 1px solid #EDE6DB;
+    background-color: #EDE6DB;
+}
